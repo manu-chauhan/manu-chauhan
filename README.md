@@ -9,5 +9,4 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning/reading: multiple things
 - 💬 Ask me about Python, Deep Learning and tech of course
 
-  ✨✨✨✨✨
 
