@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 
 
 
-### 👨‍💻 Languages and Tools
+### 👨‍💻
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
