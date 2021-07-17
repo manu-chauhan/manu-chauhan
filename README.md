@@ -23,7 +23,8 @@ Here are some ideas to get you started:-->
 
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> -->
 
-<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+ <a href="https://manu1992.medium.com">
+<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 ### 👀 Activity Graph
 [![MANU-CHAUHAN's github activity graph](https://activity-graph.herokuapp.com/graph?username=MANU-CHAUHAN&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
