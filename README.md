@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on: Multiple stuff but mostly it revolves around Python, Deep Learning, Classical ML and getting into RL.
-- 🌱 I’m currently learning/reading: multiple things.
+- 🔭 I’m currently working on: Multiple stuff but mostly it revolves around Python, Deep Learning, Classical Machine Learning.
+- 🌱 I’m currently learning/reading: RL.
 - 💬 Ask me about Python, Machine Learning, Zen and tech in general, of course.
 
 
